@@ -1537,14 +1537,13 @@ System Status: PRODUCTION READY ✅
 **Student Developer | AI Enthusiast | Security Advocate**
 
 [![GitHub](https://img.shields.io/badge/GitHub-ishansurdi-181717?style=for-the-badge&logo=github)](https://github.com/ishansurdi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ishansurdi)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:ishansurdi@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ishansurdiofficial/)
+
 
 </div>
 
 **Project Details:**
-- **Built for:** Hackathon - "Reimagining KYC with AI — Make It Effortless"
-- **Development Time:** [Add your timeframe]
+- **Built for:** "Reimagining KYC with AI — Make It Effortless"
 - **Lines of Code:** 15,247 (verified production code)
 - **Technologies Mastered:** Python, Flask, MongoDB, AI/ML, Cryptography, Cloud Architecture
 - **Key Achievement:** Built production-ready KYC platform as student project
