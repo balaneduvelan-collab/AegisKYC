@@ -254,17 +254,3 @@ python tests/test_security_encryption.py
 
 ---
 
-## For Your Submission
-
-**Show the evaluators:**
-
-1. **Run the test:** `python tests/test_security_encryption.py`
-2. **Show TEST_RESULTS.md:** Complete documentation with results
-3. **Explain the flow:** User input → Encryption → Storage → Decryption
-4. **Point to code:** `backend/app/utils/encryption.py` (implementation)
-
-**Key talking points:**
-- "We use AES-256-GCM, the same encryption used by banks and governments"
-- "Every encryption gets a unique nonce - we tested 100 encryptions with 0% collision"
-- "Tamper detection is built-in - any modified data is automatically rejected"
-- "All 7 sensitive PII fields successfully encrypted and decrypted with 100% accuracy"
