@@ -1661,7 +1661,7 @@ AegisKYC is a demonstration project showcasing advanced identity verification co
 2. Review [TEST_RESULTS.md](TEST_RESULTS.md) for technical validation
 3. See [SECURITY_ENCRYPTION_FLOW.md](SECURITY_ENCRYPTION_FLOW.md) for security details
 4. Open an issue on GitHub for technical discussions
-5. Email: ishansurdi@example.com (update with your email)
+5. Email: ishansurdi2105@gmail.com
 
 **Available for:**
 - Technical discussions about KYC/verification systems
